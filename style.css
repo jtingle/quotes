@@ -1,0 +1,17 @@
+body {
+  background-color: #3096E0;
+  color: white;
+  text-align: center;
+}
+
+#quotebox {
+  background-color: white;
+  color: #3096E0;
+  border-radius: 8px;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 100px;
+  font-size: 200%;
+  font-style: italic;
+  }

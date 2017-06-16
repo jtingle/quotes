@@ -1,7 +1,7 @@
 var quotes = [
-  "Here we go, off the rails. Don't you know it's time to raise our sails? It's freedom like you never knew.",
-  "Moving fast, from the past, Say the word, I'll be there in a flash. You could say my hat is off to you.",
-  "Oh we can zoom all the way to the moon from this great wide wacky world, Jump with me, grab coins with me, Oh yeah!",
+  "Heaven and earth act but don't care, treat everything like flowers by the grave. - Dao de Jing [5]",
+  "Those who follow (ts'ung) their greater part become great humans. Those who follow their petty part become petty humans. - Mengzi",
+  "To be wealthy and honored in an unjust society is a disgrace. - Confucious",
 ];
 
 var div = document.querySelector(".quotesdiv");
